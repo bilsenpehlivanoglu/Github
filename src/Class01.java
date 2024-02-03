@@ -1,3 +1,5 @@
+import java.net.Socket;
+
 public class Class01 {
     public static void main(String[] args) {
 
@@ -5,5 +7,10 @@ public class Class01 {
         int y =2;
         System.out.println(x+y);
         System.out.println("Versiyon 1 tamamlandi.");
+
+        //Versiyon 2
+
+        System.out.println(x*y);
+        System.out.println("Versiyon 2 tamamlandi");
     }
 }
