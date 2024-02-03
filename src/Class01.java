@@ -17,5 +17,8 @@ public class Class01 {
 
         System.out.println(x/y);
 
+        //Versiyon 4
+        System.out.println("Olmamasi gereken kodgi");
+
     }
 }
